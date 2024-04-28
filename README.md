@@ -1,11 +1,11 @@
-# Automatic-Number-plate-detection
+# Number-plate-detection
 6th semester CV Project
 
-## Automatic number plate recognition:
+## Number plate recognition:
 License plate recognition, also known as license plate detection or recognition through image processing techniques, is a promising field of study in smart city and Internet of Things (IoT) development. With a significant rise in the number of vehicles, there is a growing need for automated systems to manage vehicle data for various applications.
 
 
-## Implementation: 
+## Abstract: 
 The security personnel at our campus have to manually verify the details of each vehicle
 entering and exiting the premises. This process is tedious, time-consuming, and requires
 them to work in harsh outdoor conditions, such as scorching sunlight. All the vehicles entries
